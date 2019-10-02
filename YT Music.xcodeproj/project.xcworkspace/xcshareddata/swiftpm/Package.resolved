@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MediaKeyTap",
+        "repositoryURL": "https://github.com/nhurden/MediaKeyTap.git",
+        "state": {
+          "branch": "master",
+          "revision": "4c2465eec9cf0d290cc822d6d07e2883f4007ae0",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
